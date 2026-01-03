@@ -11,7 +11,9 @@ A huge collection of dyes from the colour wheel. Each pouch based on one colour 
 ## Tutorials
 - [Creating Dyes - BG3 Toolkit](https://youtu.be/z3tK-P4djo4?si=kmtVXkEit38zbFmw) by Padme4000
 
-Grateful for Padme 4000's tutorial which you can check out above.
+Thank you to Padme4000's tutorial which you can check out above.
+
+## Status and Downloads
 
 | Dye Name               |   Status  | File     |
 |:----------------------:|:---------:|:--------:|
