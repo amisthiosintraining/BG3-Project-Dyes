@@ -24,6 +24,6 @@ Grateful for Padme 4000's tutorial which you can check out above.
 | Project Blue Dyes      | Completed | [Download](https://github.com/amisthiosintraining/BG3-Project-Dyes/releases/tag/projectbluedyes1001) |
 | Project Violet Dyes    | Completed | [Download](https://github.com/amisthiosintraining/BG3-Project-Dyes/releases/tag/projectvioletdyes1001) |
 | Project Pink Dyes      | Completed | [Download](https://github.com/amisthiosintraining/BG3-Project-Dyes/releases/tag/projectpinkdyes1001) |
-| Project White Dyes     | Ongoing   | -        |
+| Project White Dyes     | Completed | [Download](https://github.com/amisthiosintraining/BG3-Project-Dyes/releases/tag/projectwhitedyes1001) |
 | Project Grey Dyes      | Started   | -        |
 | Project Black Dyes     | Started   | -        |
