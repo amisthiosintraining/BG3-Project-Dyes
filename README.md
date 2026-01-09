@@ -28,4 +28,4 @@ Thank you to Padme4000's tutorial which you can check out above.
 | Project Pink Dyes      | Completed | [Download](https://github.com/amisthiosintraining/BG3-Project-Dyes/releases/tag/projectpinkdyes1001) |
 | Project White Dyes     | Completed | [Download](https://github.com/amisthiosintraining/BG3-Project-Dyes/releases/tag/projectwhitedyes1001) |
 | Project Grey Dyes      | Completed | [Download](https://github.com/amisthiosintraining/BG3-Project-Dyes/releases/tag/projectgreydyes1001) |
-| Project Black Dyes     | Ongoing   | -        |
+| Project Black Dyes     | Completed | [Download](https://github.com/amisthiosintraining/BG3-Project-Dyes/releases/tag/projectblackdyes1001) |
